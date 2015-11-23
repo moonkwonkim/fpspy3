@@ -52,8 +52,7 @@ To enroll a fingerprint with an ID
 ## delete(idx=None)
 To delete enrolled fingerprints
 * Input
-
-** idx: An fingerprint ID to delete (None for deleting all enrolled fingerprints)
+ * idx: An fingerprint ID to delete (None for deleting all enrolled fingerprints)
 
 * Output: \<boolean\>
 
