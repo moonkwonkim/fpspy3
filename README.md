@@ -1,4 +1,4 @@
-# FPSPy3
+# fpspy3
 Python 3 driver for Fingerprint Scanner GT-511C3
 
 ## Constructor
