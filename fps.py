@@ -7,7 +7,7 @@ import time
 
 import settings
 
-__author__ = 'Moon Kwon Kim <mkdmkk@gmail.com>'
+__author__ = 'Moon Kwon Kim <moonkwonkim@gmail.com>'
 
 logging.basicConfig(format="[%(name)s][%(asctime)s] %(message)s")
 logger = logging.getLogger("Fingerprint")
